@@ -7,7 +7,7 @@ This project used Python to analyze disease risk trends across the U.S. by seaso
   
 ## Dataset
 The HealthData.gov dataset used for this project can be accessed using the following link:
-- [Dataset Link](https://healthdata.gov/dataset/Project-Tycho-Level-1-Data/g89t-x93h/about_data)
+- [Dataset Link](https://healthdata.gov/dataset/Project-Tycho-Level-1-Data/g89t-x93h/about_data)  
 *Due to the size of the dataset, the `.csv` is not located in this repository.*
 
 ## Additional Links (due to large file size)
