@@ -23,15 +23,16 @@ The HealthData.gov dataset used for this project can be accessed using the follo
   
 ## Languages/Packages:
 * Python
-   * tidyverse (ggplot2, dplyr)
-   * janitor
-   * arules, arulesViz
-   * anomalize
-   * caret
+   * pandas
+   * seaborn
+   * matplotlib
+   * plotly
+   * numpy
+   * sklearn
+   * statsmodels
   
   
 ## Software & Platforms
-* Python
 * VS Code
   * Jupyter Notebook Extension       
 * GitHub
