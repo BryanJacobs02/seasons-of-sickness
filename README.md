@@ -1,5 +1,5 @@
 # Mapping the Seasons of Sickness: Geographic and Seasonal Trends in U.S. Disease Incidence
-*Final project for [INFO 511: Foundations of Data Science](https://infosci.arizona.edu/course/info-523-data-mining-and-discovery) — University of Arizona*
+*Final project for [INFO 511: Foundations of Data Science](https://infosci.arizona.edu/course/info-511-foundations-data-science) — University of Arizona*
   
   
 ## Project Intro/Objective
