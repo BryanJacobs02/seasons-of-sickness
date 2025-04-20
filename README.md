@@ -45,18 +45,22 @@ The HealthData.gov dataset used for this project can be accessed using the follo
   
   
 ## Repository Structure
-- **`data/`**: Contains raw data file for analysis.
-- **`code/`**: Contains `.Rmd` and `.html` files of code documentation with generated visuals.
-- **`report/`**: Contains `.Rmd` and `.html` files of final report, including relevant code and generated visuals.
+- **`code/`**: Contains `.ipynb` file for logistic regression model and associated visualizations.
+- **`deliverables/`**: Contains `.pdf` files of final report and slide show.
 - **`README.md`**
   
   
 ## How To Run
 #### For Simple Viewing
-1. Download and open desired `.html` files.
+1. Download and open desired `.pdf` files from the `deliverables/` folder.
 
-#### To Run Yourself
+#### To Run Final Model
 1. Clone the repository.
-2. Open `info523_project_code.Rmd` in RStudio.
-3. Download `Big_Black_Money_Dataset.csv` from `data/` folder and place in correct directory.
+2. Download the Project Tycho Level 1 dataset from the link above.
+3. Download the `.ipynb` file and open with a compatible software.
 4. Run the code as usual.
+
+#### To Run EDA and Geospatial Visualizations
+1. Download the Project Tycho Level 1 dataset from the link above.
+2. Download the `.ipynb` file from the google drive link above, and open with a compatible software.
+3. Run the code as usual.
