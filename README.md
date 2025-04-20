@@ -15,10 +15,10 @@ The HealthData.gov dataset used for this project can be accessed using the follo
   
   
 ## Authors
-**Bryan Jacobs** 
-**Yash Sharma**
-**Antonio Escalante Jr.**
-**Partha Vemuri**
+**Bryan Jacobs**  
+**Yash Sharma**  
+**Antonio Escalante Jr.**  
+**Partha Vemuri**  
   
   
 ## Languages/Packages:
